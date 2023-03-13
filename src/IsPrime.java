@@ -1,7 +1,7 @@
 /**
  * @brief 소수의 개수를 구하는 메소드
  * 
- * @param n 소수의 개수를 찾을 숫자
+ * @param n 소수의 개수를 구할 숫자
  * 
  * @author zeonghun
  * @since 230313
